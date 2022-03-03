@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: GuideToGANs
+summary: A beginners guide to Generative Adversarial Networks implemented using PyTorch
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
