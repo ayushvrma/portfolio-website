@@ -25,7 +25,7 @@ experience:
   - title: Core Member
     company: Google Developers Student Club
     company_url: 'https://www.dsctiet.tech/'
-    company_logo: egg
+    company_logo: 
     location: Patiala, India
     date_start: '2021-01-01'
     date_end: ''
