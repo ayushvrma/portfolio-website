@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ayushvrma/ayushvrma.github.io.git
+	branch = master
