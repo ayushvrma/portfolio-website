@@ -6,7 +6,7 @@ title: Ayush Verma
 superuser: true
 
 # Role/position/tagline
-role: Deep Learning Enthusiast, Flutter Developer
+role: 'ayushvrma08@gmail.com'
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,13 +64,13 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ayush8402@gmail.com"
+email: "ayushvrma08@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! I am Ayush, a Deep Learning Enthusiast and a Flutter Developer. Currently a sophomore pursuing Computer Science and Bussiness Systems from [Thapar University, Patiala, India](https://www.thapar.edu/).
+I am Ayush, a Deep Learning Enthusiast and a Flutter Developer. Currently an undergrad pursuing Computer Science and Bussiness Systems from [Thapar University, Patiala, India](https://www.thapar.edu/).
 
 I intend to explore deep model under low-resource training data scenario using semi-supervised and self-supervised paradigm.
 
