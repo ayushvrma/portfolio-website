@@ -70,7 +70,14 @@ email: "ayush8402@gmail.com"
 highlight_name: true
 ---
 
-Hi! I am Ayush, a Deep Learning Enthusiast and a Flutter Developer. Currently a sophomore pursuing Computer Science and Bussiness Systems from Thapar University, Patiala, India.
+Hi! I am Ayush, a Deep Learning Enthusiast and a Flutter Developer. Currently a sophomore pursuing Computer Science and Bussiness Systems from [Thapar University, Patiala, India](https://www.thapar.edu/).
+
+I intend to explore deep model under low-resource training data scenario using semi-supervised and self-supervised paradigm.
+
+My research focus is broadly centered around Computer Vision and Deep Learning.
 I have gathered up some basic knowledge about Generative Adversial Networks (GANs), implemented it in PyTorch, and am currently learning Zero Shot Learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Apart from this, I like books and music. Contact Me if you want to chat about anything, we'll find a topic.
+
+### News
+- `[March 2021]`Joined Pumpkart as a Flutter Developer Intern

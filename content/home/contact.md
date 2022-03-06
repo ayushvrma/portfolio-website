@@ -16,25 +16,14 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  # form:
+  #   provider: netlify
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
   # Contact details (edit or remove options as required)
-  email: ayush8402@gmail.com
-  phone: +91-8604091203
-  address:
-    street: 50 Indrapuri
-    city: Lucknow
-    region: Uttar Pradesh
-    postcode: '226023'
-    country: India
-    country_code: IN
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+  email: ayushvrma08@gmail.com
   office_hours:
     - '12-15 hours a week'
   contact_links:
