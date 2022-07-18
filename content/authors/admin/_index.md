@@ -10,6 +10,8 @@ role: 'ayushvrma08@gmail.com'
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Diool
+  url: https://www.diool.com/
 - name: Google Developers Student Community
   url: https://www.dsctiet.tech/#/
 
@@ -19,6 +21,7 @@ bio: My interests include Deep Learning and Flutter, exploring Zero Shot Learnin
 # Interests to show in About widget
 interests:
 - Deep Learning
+- Reinforcement Learning
 - Computer Vision
 - Flutter Development
 
@@ -75,9 +78,11 @@ I am Ayush, a Deep Learning Enthusiast and a Flutter Developer. Currently an und
 I intend to explore deep model under low-resource training data scenario using semi-supervised and self-supervised paradigm.
 
 My research focus is broadly centered around Computer Vision and Deep Learning.
-I have gathered up some basic knowledge about Generative Adversial Networks (GANs), implemented it in PyTorch, and am currently learning Zero Shot Learning.
+I have gathered up some basic knowledge about Generative Adversial Networks (GANs), implemented it in PyTorch, and am currently learning Zero Shot Learning and Reinforcement Learning with gym and pytorch.
 
 Apart from this, I like books and music. Contact Me if you want to chat about anything, we'll find a topic.
 
 ### News
+
+- `[March 2022]`Joined [Diool](https://www.diool.com/) as a AI/ML Intern
 - `[March 2021]`Joined Pumpkart as a Flutter Developer Intern

@@ -22,7 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Core Member
+  - title: AI/ML Intern
+    company: Diool
+    company_url: 'https://www.diool.com/'
+    company_logo: 
+    location: Camaroon, Africa (Remote)
+    date_start: '2022-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Generated Synthetic Data in the field of Fintech.
+        * Used Reinforcement Learning for Credit Assessment.
+        * Explored ways to send daily and weekly reports to the Product Manager.
+
+  - title: Co-Lead
     company: Google Developers Student Club
     company_url: 'https://www.dsctiet.tech/'
     company_logo: 
@@ -40,8 +54,8 @@ experience:
     company: Pumpkart Ltd.
     company_url: 'https://www.pumpkart.com/'
     company_logo:
-    location: Chandigarh, India (Remote)
-    date_start: '2016-03-21'
+    location: Remote
+    date_start: '2020-05-21'
     date_end: '2020-06-21'
     description:  |2-
         Responsibilities included:
